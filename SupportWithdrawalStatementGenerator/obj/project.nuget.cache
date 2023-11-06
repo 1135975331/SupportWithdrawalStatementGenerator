@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HuPldPH8EiQbykqediJ40sk2N0kWz+hc9emBftqr1vCpp0zClr7fhn0kBGUJQbO9ODR9tp9vLhvYrabpY1c8kQ==",
+  "success": true,
+  "projectFilePath": "D:\\Developing\\C#Projects\\SupportWithdrawalStatementGenerator\\SupportWithdrawalStatementGenerator\\SupportWithdrawalStatementGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
